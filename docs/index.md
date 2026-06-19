@@ -78,3 +78,9 @@ Duplicated footnote reference[^second].
 [^first]: Footnote **can have markup**
  and multiple paragraphs.
 [^second]: Footnote text.
+
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2rM1jbsdfw?si=kHR7qi--1OUSfAfp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
